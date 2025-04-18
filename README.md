@@ -1,4 +1,4 @@
-# sd-webui-add-download-image-button
+# SD WebUI-Add Download Image Button
 Stable Diffusion WebUIの拡張機能です。  
 イメージビュアーにダウンロードボタンを追加します。  
 ブラウザーのマウスの右ボタンをクリックして表示されるコンテキストメニューの名前を付けて画像を保存をワンクリックで保存できます。  
